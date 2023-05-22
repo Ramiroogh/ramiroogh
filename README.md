@@ -72,4 +72,4 @@
 
 #### More Information in Linkedin
 * Click on the Link  :
-[Linkedin](www.linkedin.com/in/navarrete369).<img src="https://media.giphy.com/media/bqb0oWQTUIlB21rvnS/giphy.gif" width="30" height="20"/>
+[LinkedIn](https://www.linkedin.com/in/navarrete369).<img src="https://media.giphy.com/media/bqb0oWQTUIlB21rvnS/giphy.gif" width="30" height="20"/>

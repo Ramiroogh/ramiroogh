@@ -2,13 +2,11 @@
 
 ###### Patagonia, Argentina. 📍🌎
 
-
 ## Portfolio
 
 > My Experiences, Side Projects and Freelance Jobs.
 >> Mi Experiencia, Proyectos y Trabajos Freelance
-<br>
-* Click on the Link :
+* Click on the Link  :
 [Portfolio](https://markdownlivepreview.com/).<img src="https://media.giphy.com/media/bqb0oWQTUIlB21rvnS/giphy.gif" width="30" height="20"/>
 
 ## Frontend Developer 👨‍💻🖱️⌨️

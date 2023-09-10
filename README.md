@@ -1,4 +1,4 @@
-![bootstrap_plain_wordmark_logo_icon_146620](https://github.com/Ramiroogh/ramiroogh/assets/113774402/c79c66fb-b025-4973-b90a-83e1f35af077)# Hello, <img src="https://media.giphy.com/media/2cwPS1zA560EMhufr7/giphy.gif" width="50" height="50"/> I'm Ramiro
+# Hello, <img src="https://media.giphy.com/media/2cwPS1zA560EMhufr7/giphy.gif" width="50" height="50"/> I'm Ramiro
 
 ###### Patagonia, Argentina. 📍🌎
 

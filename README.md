@@ -50,18 +50,18 @@
 > Desarrollador Web Fullstack
 <br>Fullstack Developer
 
-(November 2022 - August 2023) - **Complete**
+(November 2022 - July 2023) - **COMPLETED**
 
 * ### Universidad Siglo 21
 > Licenciatura en Informática
 <br>Bachelor's Degree in Computer Science
 
-(March 2020 - December 2020) - 1 of 4 Year complete.
+(March 2020 - December 2020) - 1 of 4 Year ended.
 
 * ### Institute YES, Language School
 > Level A2
 
-(2016 - 2019) - 4 Years complete.
+(2016 - 2019) - 4 Years ended.
 
 #### More Information in Linkedin
 * Click on the Link  :

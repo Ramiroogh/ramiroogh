@@ -46,7 +46,7 @@
 
 ## Academic Formation 📚
 
-* ### [Universidad Tecnologica Nacional UTN](https://sceu.frba.utn.edu.ar/e-learning/){:target="_blank"}
+* ### <a href="https://sceu.frba.utn.edu.ar/e-learning/" target="_blank">Universidad Tecnologica Nacional UTN</a>
 > Desarrollador Web Fullstack
 <br>Fullstack Developer
 

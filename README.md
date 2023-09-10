@@ -19,10 +19,7 @@ Lenguages and Tools:
 
 | Frontend |
 | -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/2afc63fd-42a5-4097-a0c0-8f6b2db13794" width="50" height="50"/> |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/82c2dab4-ede0-4917-805b-fa328f30a13e" width="50" height="50"/> |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/9ad0cc59-bc6c-4b90-9bea-33525f364815" width="50" height="50"/> |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/0b9c3078-7bae-4280-a51f-dcba3715c1b0" width="50" height="50"/> |
+| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/2afc63fd-42a5-4097-a0c0-8f6b2db13794" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/82c2dab4-ede0-4917-805b-fa328f30a13e" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/9ad0cc59-bc6c-4b90-9bea-33525f364815" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/0b9c3078-7bae-4280-a51f-dcba3715c1b0" width="50" height="50"/> |
 
 
 ## Fundamentals of Web Design 

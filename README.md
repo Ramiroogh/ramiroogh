@@ -46,19 +46,19 @@
 
 ## Academic Formation 📚
 
-* ### Universidad Tecnologica Nacional UTN
+* ### [Universidad Tecnologica Nacional UTN](https://sceu.frba.utn.edu.ar/e-learning/)
 > Desarrollador Web Fullstack
 <br>Fullstack Developer
 
 (November 2022 - July 2023) - **COMPLETED**
 
-* ### Universidad Siglo 21
+* ### [Universidad Siglo 21](https://21.edu.ar/)
 > Licenciatura en Informática
 <br>Bachelor's Degree in Computer Science
 
 (March 2020 - December 2020) - 1 of 4 Year ended.
 
-* ### Institute YES, Language School
+* ### [Institute YES, Language School](https://www.schoolandcollegelistings.com/AR/Cutral-C%C3%B3/237679479666226/Instituto-Y.E.S.-Cutral-C%C3%B3)
 > Level A2
 
 (2016 - 2019) - 4 Years ended.

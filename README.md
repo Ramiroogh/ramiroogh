@@ -40,7 +40,7 @@
 
 | Hosting & Cloud |
 | -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/021ea14a-b294-4b34-bd1a-6088d5481238" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/96311349-aed5-4add-a571-9685e84476d8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/37c931c0-b057-43b9-b872-b2e5b2a97f29" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/5d130af0-6041-40d9-9823-1cb6aca8bddc" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/816180e8-5cfc-47dc-b4c9-f20c5a773277" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/a7f6d4d7-d292-4468-95e5-d68a90764441" width="50" height="50"/> |
+| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/021ea14a-b294-4b34-bd1a-6088d5481238" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/96311349-aed5-4add-a571-9685e84476d8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/5d130af0-6041-40d9-9823-1cb6aca8bddc" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/816180e8-5cfc-47dc-b4c9-f20c5a773277" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/a7f6d4d7-d292-4468-95e5-d68a90764441" width="50" height="50"/> |
 
 
 

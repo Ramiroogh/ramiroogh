@@ -19,7 +19,7 @@
 
 | Frontend |
 | -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/2afc63fd-42a5-4097-a0c0-8f6b2db13794" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/82c2dab4-ede0-4917-805b-fa328f30a13e" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/9ad0cc59-bc6c-4b90-9bea-33525f364815" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/0b9c3078-7bae-4280-a51f-dcba3715c1b0" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/796bb0c3-cf87-465a-9786-2b6c7b17c306" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/08a62679-4c7b-4e5b-b8a6-415b6107b487" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/3b8bf267-12d9-4871-bc37-f61536dc6c54" width="50" height="50"/> |
+| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/2afc63fd-42a5-4097-a0c0-8f6b2db13794" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/82c2dab4-ede0-4917-805b-fa328f30a13e" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/9ad0cc59-bc6c-4b90-9bea-33525f364815" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/0b9c3078-7bae-4280-a51f-dcba3715c1b0" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/796bb0c3-cf87-465a-9786-2b6c7b17c306" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/ecf6673b-12b5-4817-a1bc-b12d824762c0" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/08a62679-4c7b-4e5b-b8a6-415b6107b487" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/3b8bf267-12d9-4871-bc37-f61536dc6c54" width="50" height="50"/> |
 
 
 | Backend & SSR | Data base |
@@ -32,7 +32,7 @@
 
 | Project and Team Management |
 | -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/b51b69d1-984e-4392-b0e1-f65bc9bb93c0" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/4e2a760c-9e3e-4ca9-9883-47621903689f" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/d28f5eb9-0987-4665-b380-404778687474" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/1426de4f-6183-40b5-b70a-ea22c038a5f0" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/ec3997ad-c78a-4261-9d7c-b49ad2f28ea8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/4d26d899-9697-4994-a1d1-7bb324b9947a" width="50" height="50"/> |
+| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/b51b69d1-984e-4392-b0e1-f65bc9bb93c0" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/4e2a760c-9e3e-4ca9-9883-47621903689f" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/d28f5eb9-0987-4665-b380-404778687474" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/1426de4f-6183-40b5-b70a-ea22c038a5f0" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/cf2c340e-97c3-43e6-a162-e938faf64d63" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/ec3997ad-c78a-4261-9d7c-b49ad2f28ea8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/4d26d899-9697-4994-a1d1-7bb324b9947a" width="50" height="50"/> |
 
 | IDE |
 | -------- |
@@ -40,7 +40,9 @@
 
 | Hosting & Cloud |
 | -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/021ea14a-b294-4b34-bd1a-6088d5481238" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/96311349-aed5-4add-a571-9685e84476d8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/37c931c0-b057-43b9-b872-b2e5b2a97f29" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/5d130af0-6041-40d9-9823-1cb6aca8bddc" width="50" height="50"/> |
+| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/021ea14a-b294-4b34-bd1a-6088d5481238" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/96311349-aed5-4add-a571-9685e84476d8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/37c931c0-b057-43b9-b872-b2e5b2a97f29" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/5d130af0-6041-40d9-9823-1cb6aca8bddc" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/816180e8-5cfc-47dc-b4c9-f20c5a773277" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/a7f6d4d7-d292-4468-95e5-d68a90764441" width="50" height="50"/> |
+
+
 
 ## Academic Formation 📚
 

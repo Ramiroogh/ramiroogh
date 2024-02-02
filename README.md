@@ -2,15 +2,26 @@
 
 ###### Patagonia, Argentina. 📍🌎
 
-## Web Developer (Frontend | Backend | Database) 👨‍💻🖱️⌨️
+## I'am Fullstack Web Developer & UX UI Designer
+---
 
-> I am a Web Developer with 4 years of experience, I graduated from Universidad Tecnologica Nacional (Argentina).
-I am founder of Digitalweb Patagonia Agency, formed by a good team, dedicated to provide digital services in areas such as Web Design, Meta ADS, SEO and UX UI Design.
+## Fullstack Web Development
+> <b>English</b><br>On the Web Development side, I am able to create dynamic and static websites, I can collect external data from an API or database and create queries or endpoints to render them on the frontend, I can also integrate protected routes, two-step authentication, email, user roles. Always respecting DRY principles and using MVC architecture.
 >
->> *Español*<br>Soy Desarrollador Web con 4 años de experiencia, me gradue en la Universidad Tecnologica Nacional (Argentina).
-Soy fundador de la Agencia Digitalweb Patagonia, conformado por un buen equipo de trabajo, dedicados a brindar servicios digitales en areas como Diseño Web, Meta ADS, SEO y Diseño UX UI.
+>> <b>Español</b><br>Por el lado del Desarrollo Web, soy capaz de crear sitios web dinamicos y estaticos, puedo recoger datos externos desde una API o base de datos y crear queries o endpoint para renderizarlos en el frontend, ademas puedo integrar rutas protegidas, autenticacion en dos pasos, email, roles de usuario. Siempre respetando los principios DRY y usando arquitectura MVC.
 
-### Lenguages and Tools:
+---
+## UX UI Design
+> <b>English</b><br>The path of web development led me to know the world of ux ui design, it was something totally natural and is something I love.
+I am able to develop functional prototypes in Figma, create design systems, use color palettes with adequate contrast for the retina according to WCAG 2.1 and its standards based on W3C.
+What I love the most is to validate a final product and then pass it to development, through a functional prototype.
+>
+>> <b>Español</b><br>El camino del desarrollo web me llevo a conocer el mundo del diseño ux ui, fue algo totalmente natural y es algo que me encanta.
+Soy capaz de desarrollar prototipos funcionales en Figma, crear sistemas de diseño, utilizar paletas de colores con contraste adecuado para la retina segun WCAG 2.1 y sus estandares basado en W3C.
+Lo que mas me encanta es validar un producto final para luego pasarlo al desarrollo, mediante un prototipo funcional.
+
+---
+### Software and Tools
 
 | Frontend |
 | -------- |
@@ -24,15 +35,11 @@ Soy fundador de la Agencia Digitalweb Patagonia, conformado por un buen equipo d
 
 | UX - UI |
 | -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/b47df35f-3489-4656-aee8-d5deb52f0a7a" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/15b32a18-3911-4718-91a8-5002e6d47d60" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/7376a19d-53d1-47cc-92fd-5a6196e4348b" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/ddd87ca8-a728-4854-97da-9024885e5f35" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/c11a3781-c06f-4afc-a860-d33ab8863ea8" width="50" height="50"/> |
+| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/b47df35f-3489-4656-aee8-d5deb52f0a7a" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/ddd87ca8-a728-4854-97da-9024885e5f35" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/c11a3781-c06f-4afc-a860-d33ab8863ea8" width="50" height="50"/> |
 
 | Project and Team Management |
 | -------- |
 | <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/b51b69d1-984e-4392-b0e1-f65bc9bb93c0" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/4e2a760c-9e3e-4ca9-9883-47621903689f" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/d28f5eb9-0987-4665-b380-404778687474" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/1426de4f-6183-40b5-b70a-ea22c038a5f0" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/cf2c340e-97c3-43e6-a162-e938faf64d63" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/ec3997ad-c78a-4261-9d7c-b49ad2f28ea8" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/4d26d899-9697-4994-a1d1-7bb324b9947a" width="50" height="50"/> |
-
-| IDE |
-| -------- |
-| <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/3a57aeab-ffc9-4055-81d5-5c6b9b241f92" width="30" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/c73005c0-0cf4-4506-ba73-da0ef961743f" width="50" height="50"/> <img src="https://github.com/Ramiroogh/ramiroogh/assets/113774402/167bbc63-79c8-40bd-813d-917fb5ee0d86" width="50" height="50"/> |
 
 | Hosting & Cloud |
 | -------- |
